@@ -7,5 +7,5 @@ Vocabfinder takes a list of Bible books with known vocabulary as argument 1 and 
 Usage:  
 python vocabfinder.py 'LIST_KNOWN_BOOKS' 'LIST_NEW_BOOKS'  
 
-Example:
+Example:  
 python vocabfinder.py 'MAT MRK LUK JHN ACT' 'PHP' 
